@@ -46,14 +46,15 @@ Associate | *Jul 2016 - Feb 2019*
 -	Compiled press kits and situational analysis overviews for Red Butte Garden, National Center for Veteran Studies and Anything for a Friend
 
 ## Skills
-Design
+### Design
 -	UX Ideation
 -	User Story & Journey Maps
 -	Interaction Design
 -	Wireframing
 -	Prototyping
 -	Sketch, Invision & Adobe Creative Suite
-## Research
+
+### Research
 -	Surveys & Interviews
 -	User Testing
 -	Qualitative Analysis
