@@ -1,7 +1,4 @@
----
-layout: cv
-title: Hannah Romney's Resume
----
+
 # Hannah Romney
 UX Designer
 
