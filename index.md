@@ -3,7 +3,8 @@
 UX Designer
 
 <div id="webaddress">
-<a href="hannahjromney@gmail.com">hannahjromney@gmail.com</a>
+<a href="hannahjromney@gmail.com">hannahjromney@gmail.com</a> 
+  
 <a href="https://uxfol.io/hannahjromney">UX Portfolio</a>
 </div>
 
