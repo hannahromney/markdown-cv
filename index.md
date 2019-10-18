@@ -61,3 +61,4 @@ Associate | *Jul 2016 - Feb 2019*
 
 ## About Me
 I am detail-oriented, a problem solver, assertive and reliable. Since learning about UX Design, I have become passionate about it and am eager to learn more. I am optimistic with strong interpersonal skills and love working on a team. 
+
